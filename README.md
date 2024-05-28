@@ -22,3 +22,4 @@ This project aims to investigate the current trends, challenges, and opportuniti
   SELECT * FROM TABLE 1
   WHERE CONDITION = MET
   ~~~
+![]{Project 1.jpg}
