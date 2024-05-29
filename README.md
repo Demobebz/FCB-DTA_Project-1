@@ -22,7 +22,8 @@ This project aims to investigate the current trends, challenges, and opportuniti
   SELECT * FROM TABLE 1
   WHERE CONDITION = MET
   ~~~
-![](House front view.jpg)
+  ![fashion](House front view.jpg)
+  
 |Heading 1 | Heading 2 | Heading 3|
 |----------|-----------|----------|
 |Data 1 | Data 2 | Data 3|
